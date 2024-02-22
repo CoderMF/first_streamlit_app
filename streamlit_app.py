@@ -8,3 +8,4 @@ sl.text('🥗 Kale, Spinach & Rocket Smoothie')
 sl.text('🐔 Hard-Boiled Free-Range Egg')
 sl.text('🥑🍞 Avocado Toast')
 
+sl.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
